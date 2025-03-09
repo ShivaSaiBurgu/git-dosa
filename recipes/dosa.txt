@@ -2,3 +2,6 @@ plain dosa
 extra-karam
 neyyi
 egg
+mutton
+chicken
+fish
