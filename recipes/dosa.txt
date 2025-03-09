@@ -3,3 +3,5 @@ extra-karam
 neyyi
 egg
 mutton
+chicken
+fish
